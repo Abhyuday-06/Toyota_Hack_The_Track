@@ -2,7 +2,7 @@
 
 Welcome to the repository for the Toyota Gazoo Racing Hackathon 2025! This project contains the `RaceStory Pro` application, a post-event analysis dashboard, as well as the raw data used for the hackathon.
 
-## 🏁 Project Overview
+## Project Overview
 
 This project is a submission for the "Post-Event Analysis" category of the hackathon. The goal is to go beyond the final standings and tell the story of the race, revealing key moments and strategic decisions that led to the outcome.
 
