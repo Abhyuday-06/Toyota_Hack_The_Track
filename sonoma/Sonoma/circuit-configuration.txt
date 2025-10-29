@@ -1,0 +1,68 @@
+{
+  "circuit_info": {
+    "name": "Sonoma Raceway",
+    "abbreviation": "Sonoma",
+    "length": {
+      "miles": 2.505,
+      "kilometers": 4.031
+    },
+    "elevation": {
+      "finish_line_feet": 20,
+      "finish_line_meters": 6.1
+    }
+  },
+  "gps_coordinates": {
+    "finish_timing_line": {
+      "latitude": 38.1615139,
+      "longitude": -122.4547166,
+      "latitude_direction": "N",
+      "longitude_direction": "W"
+    }
+  },
+  "pit_lane": {
+    "time_at_50kph_seconds": 45,
+    "speed_limit_kph": 50
+  },
+  "circuit_measurements": {
+    "center_line": {
+      "inches": 158716,
+      "meters": 4031.38
+    },
+    "start_line_offset": {
+      "inches": null,
+      "meters": null
+    },
+    "sectors": {
+      "sector_1_sf_to_i1": {
+        "inches": 54520,
+        "meters": 1385
+      },
+      "sector_2_i1_to_i2": {
+        "inches": 55976,
+        "meters": 1422
+      },
+      "sector_3_i2_to_sf": {
+        "inches": 48220,
+        "meters": 1225
+      }
+    },
+    "speed_trap": {
+      "inches": 1224,
+      "meters": 31
+    },
+    "pit_measurements": {
+      "pit_in_from_sf": {
+        "inches": -20442.9,
+        "meters": -519.25
+      },
+      "pit_out_from_sfp": {
+        "inches": 3775.6,
+        "meters": 95.9
+      },
+      "pit_in_to_pit_out": {
+        "inches": 24564,
+        "meters": 623.9
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "circuit_info": {
+    "name": "Virginia International Raceway",
+    "abbreviation": "VIR",
+    "length": {
+      "miles": 3.27,
+      "kilometers": 5.26
+    },
+    "elevation": {
+      "finish_line_feet": 375,
+      "finish_line_meters": 114.3
+    }
+  },
+  "gps_coordinates": {
+    "finish_timing_line": {
+      "latitude": 36.5688167,
+      "longitude": -79.2066639
+    },
+    "pit_in": {
+      "latitude": 36.567581,
+      "longitude": -79.210428
+    },
+    "pit_out": {
+      "latitude": 36.568667,
+      "longitude": -79.206797
+    }
+  },
+  "pit_lane": {
+    "time_at_50kph_seconds": 25,
+    "speed_limit_kph": 50
+  },
+  "circuit_measurements": {
+    "center_line": {
+      "inches": 207189,
+      "meters": 5262.6
+    },
+    "start_line_offset": {
+      "inches": null,
+      "meters": null
+    },
+    "sectors": {
+      "sector_1_sf_to_i1": {
+        "inches": 65064,
+        "meters": 1652.6
+      },
+      "sector_2_i1_to_i2": {
+        "inches": 84960,
+        "meters": 2158.0
+      },
+      "sector_3_i2_to_sf": {
+        "inches": 57165,
+        "meters": 1452
+      }
+    },
+    "speed_trap": {
+      "inches": 1440,
+      "meters": 36.6
+    },
+    "pit_measurements": {
+      "pit_in_from_sf": {
+        "inches": 192864,
+        "meters": 4898.7
+      },
+      "pit_out_from_sfp": {
+        "inches": -630,
+        "meters": -16
+      },
+      "pit_in_to_pit_out": {
+        "inches": 13410,
+        "meters": 340.6
+      }
+    }
+  }
+}

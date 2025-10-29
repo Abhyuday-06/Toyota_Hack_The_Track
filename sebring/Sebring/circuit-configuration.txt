@@ -1,0 +1,81 @@
+{
+  "circuit_info": {
+    "name": "Sebring International Raceway",
+    "abbreviation": "Sebring",
+    "length": {
+      "miles": 3.74,
+      "kilometers": 6.019,
+      "meters": 6018.9
+    },
+    "elevation": {
+      "finish_line_feet": 61,
+      "finish_line_meters": 18.6
+    }
+  },
+  "gps_coordinates": {
+    "finish_timing_line": {
+      "latitude": 27.4502340,
+      "longitude": -81.3536980,
+      "latitude_direction": "N",
+      "longitude_direction": "W"
+    },
+    "pit_in": {
+      "latitude": 27.45012,
+      "longitude": -81.35547,
+      "latitude_direction": "N",
+      "longitude_direction": "W"
+    },
+    "pit_out": {
+      "latitude": 27.45011,
+      "longitude": -81.35051,
+      "latitude_direction": "N",
+      "longitude_direction": "W"
+    }
+  },
+  "pit_lane": {
+    "time_at_50kph_seconds": 39,
+    "speed_limit_kph": 50
+  },
+  "circuit_measurements": {
+    "center_line": {
+      "inches": 236966,
+      "meters": 6018.9
+    },
+    "start_line_offset": {
+      "inches": null,
+      "meters": null
+    },
+    "sectors": {
+      "sector_1_sf_to_i1": {
+        "inches": 71819,
+        "meters": 1824.2
+      },
+      "sector_2_i1_to_i2": {
+        "inches": 73374,
+        "meters": 1863.7
+      },
+      "sector_3_i2_to_sf": {
+        "inches": 91773,
+        "meters": 2331.0
+      }
+    },
+    "speed_trap": {
+      "inches": 1496,
+      "meters": 38
+    },
+    "pit_measurements": {
+      "pit_in_from_sf": {
+        "inches": 230006,
+        "meters": 5842.2
+      },
+      "pit_out_from_sfp": {
+        "inches": 14378,
+        "meters": 365.2
+      },
+      "pit_in_to_pit_out": {
+        "inches": 21349,
+        "meters": 542.3
+      }
+    }
+  }
+}

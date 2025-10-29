@@ -1,0 +1,30 @@
+Pos;No.;Class;PIC;Driver1;Nat;CarName;TeamName;Laps;Time;Gap;Diff;KPH;BestLap;ON
+1;13;Am;1;Westin Workman;USA;Toyota GR86;Copeland Motorsports;;;;;130.14;1:51.522;7
+2;5;Am;2;Gresham Wagner;USA;Toyota GR86;Copeland Motorsports;;;0.043;0.043;130.09;1:51.565;6
+3;99;Am;3;Jaxon Bell;USA;Toyota GR86;Copeland Motorsports;;;0.098;0.141;129.97;1:51.663;6
+4;55;Am;4;Spike Kohlbecker;USA;Toyota GR86;TechSport Racing;;;0.133;0.274;129.82;1:51.796;8
+5;46;Am;5;Lucas Weisenberg;USA;Toyota GR86;Lucas Racing;;;0.413;0.687;129.34;1:52.209;4
+6;39;Am;6;Maximilian Hewitt;USA;Toyota GR86;BSI Racing;;;0.219;0.906;129.09;1:52.428;6
+7;57;Am;7;Mia Lovell;USA;Toyota GR86;Copeland Motorsports;;;0.267;1.173;128.78;1:52.695;7
+8;44;Am;8;Aidan Yoder;USA;Toyota GR86;Precision Racing LA;;;0.026;1.199;128.75;1:52.721;7
+9;51;Am;9;Adam Brickley;USA;Toyota GR86;Copeland Motorsports;;;0.077;1.276;128.66;1:52.798;7
+10;80;Am;10;Tyler Wettengel;USA;Toyota GR86;Nitro Motorsports;;;0.145;1.421;128.5;1:52.943;8
+11;89;Am;11;Livio Galanti;ITA;Toyota GR86;Eagles Canyon Racing powered by Fast Track;;;0.037;1.458;128.46;1:52.980;8
+12;76;Am;12;Steven Clemons;USA;Toyota GR86;BSI Racing;;;0.062;1.520;128.39;1:53.042;3
+13;34;Am;13;Braydon Arthur;CAN;Toyota GR86;JMF Motorsports;;;0.081;1.601;128.29;1:53.123;6
+14;24;Am;14;Jade Avedisian;USA;Toyota GR86;Nitro Motorsports;;;0.171;1.772;128.1;1:53.294;8
+15;50;Am;15;Casey Mashore;USA;Toyota GR86;Mashore Autobody;;;0.239;2.011;127.83;1:53.533;6
+16;15;Am;16;Bennett Muldoon;USA;Toyota GR86;Bennett Motorsports;;;0.132;2.143;127.68;1:53.665;5
+17;14;Am;17;Alex Garcia;USA;Toyota GR86;Skip Barber Racing;;;0.100;2.243;127.57;1:53.765;6
+18;7;Am;18;Spencer Bucknam;USA;Toyota GR86;Precision Racing LA;;;0.035;2.278;127.53;1:53.800;6
+19;21;Am;19;Ford Koch;USA;Toyota GR86;Eagles Canyon Racing powered by Fast Track;;;0.086;2.364;127.43;1:53.886;8
+20;22;Am;20;Devin Anderson;USA;Toyota GR86;TechSport Racing;;;0.032;2.396;127.4;1:53.918;7
+21;88;Am;21;Henry Drury;GBR;Toyota GR86;Precision Racing LA w/ PT Autosport;;;0.212;2.608;127.16;1:54.130;7
+22;25;Am;22;Alfonso Diaz;PRI;Toyota GR86;TechSport Racing;;;0.192;2.800;126.95;1:54.322;8
+23;09;Am;23;Maddie Aust;USA;Toyota GR86;BSI Racing;;;0.269;3.069;126.65;1:54.591;6
+24;77;Am;24;William Lambros;USA;Toyota GR86;Skip Barber Racing;;;0.046;3.115;126.6;1:54.637;6
+25;43;Am;25;Alexandra Hainer;USA;Toyota GR86;Precision Racing LA;;;0.019;3.134;126.58;1:54.656;7
+26;11;Am;26;Farran Davis;USA;Toyota GR86;RVA Graphics Motorsports by Speed Syndicate;;;0.966;4.100;125.52;1:55.622;6
+27;31;Am;27;Luke Rumburg;USA;Toyota GR86;RVA Graphics Motorsports by Speed Syndicate;;;1.086;5.186;124.35;1:56.708;8
+28;3;Am;28;Jason Kos;USA;Toyota GR86;Eagles Canyon Racing powered by Fast Track;;;0.482;5.668;123.84;1:57.190;8
+29;61;Am;29;James Klimas;USA;Toyota GR86;Skip Barber Racing;;;2.443;8.111;121.31;1:59.633;7

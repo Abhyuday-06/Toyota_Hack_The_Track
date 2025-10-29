@@ -1,0 +1,74 @@
+{
+  "circuit_info": {
+    "name": "Road America",
+    "abbreviation": "Road America",
+    "length": {
+      "miles": 4.014,
+      "kilometers": 6.458
+    },
+    "elevation": {
+      "start_finish_feet": 1058,
+      "start_finish_meters": 322
+    }
+  },
+  "gps_coordinates": {
+    "finish_line": {
+      "latitude": 43.7979056,
+      "longitude": -87.9896333
+    },
+    "pit_in": {
+      "latitude": 43.80057,
+      "longitude": -87.98992
+    },
+    "pit_out": {
+      "latitude": 43.7948061,
+      "longitude": -87.9897494
+    }
+  },
+  "pit_lane": {
+    "time_seconds": 52,
+    "speed_limit_kph": 50
+  },
+  "circuit_measurements": {
+    "center_line": {
+      "inches": null,
+      "meters": null
+    },
+    "start_line_offset": {
+      "inches": 0,
+      "meters": 0
+    },
+    "sectors": {
+      "sector_1_sf_to_i1": {
+        "inches": 81048.0,
+        "meters": 2058.6
+      },
+      "sector_2_i1_to_i2": {
+        "inches": 86928.0,
+        "meters": 2208.0
+      },
+      "sector_3_i2_to_i3": {
+        "inches": 86340.0,
+        "meters": 2193.0
+      }
+    },
+    "speed_trap": {
+      "inches": null,
+      "meters": null
+    },
+    "pit_measurements": {
+      "pit_in_from_sf": {
+        "inches": 24252.0,
+        "meters": 616.0
+      },
+      "pit_out_from_sfp": {
+        "inches": 13668.0,
+        "meters": 347.2
+      },
+      "pit_in_to_pit_out": {
+        "inches": 25464.0,
+        "meters": 646.8
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "circuit_info": {
+    "name": "Barber Motorsports Park",
+    "abbreviation": "Barber",
+    "length": {
+      "miles": 2.28,
+      "kilometers": 3.669
+    },
+    "elevation": {
+      "start_finish_feet": 646,
+      "start_finish_meters": 197
+    }
+  },
+  "gps_coordinates": {
+    "finish_line": {
+      "latitude": 33.5326722,
+      "longitude": -86.6196083
+    },
+    "pit_in": {
+      "latitude": 33.531077,
+      "longitude": -86.622592
+    },
+    "pit_out": {
+      "latitude": 33.531111,
+      "longitude": -86.622526
+    }
+  },
+  "pit_lane": {
+    "time_seconds": 34,
+    "speed_limit_kph": 50
+  },
+  "circuit_measurements": {
+    "center_line": {
+      "inches": 144672,
+      "meters": 3674.7
+    },
+    "start_line_offset": {
+      "inches": 0,
+      "meters": 0
+    },
+    "sectors": {
+      "sector_1_sf_to_i1": {
+        "inches": 40512,
+        "meters": 1029.0
+      },
+      "sector_2_i1_to_i2": {
+        "inches": 62220,
+        "meters": 1580.4
+      },
+      "sector_3_i2_to_i3": {
+        "inches": 41940.0,
+        "meters": 1065.3
+      }
+    },
+    "speed_trap": {
+      "inches": null,
+      "meters": null
+    },
+    "pit_measurements": {
+      "pit_in_from_sf": {
+        "inches": 131296.0,
+        "meters": 3334.9
+      },
+      "pit_out_from_sfp": {
+        "inches": 5352.0,
+        "meters": 135.9
+      },
+      "pit_in_to_pit_out": {
+        "inches": 18794.0,
+        "meters": 477.4
+      }
+    }
+  }
+}

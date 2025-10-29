@@ -1,0 +1,74 @@
+{
+  "circuit_info": {
+    "name": "Circuit of the Americas",
+    "abbreviation": "COTA",
+    "length": {
+      "miles": 3.416,
+      "kilometers": 5.498
+    },
+    "elevation": {
+      "finish_line_feet": 508,
+      "finish_line_meters": 154.8
+    }
+  },
+  "gps_coordinates": {
+    "finish_timing_line": {
+      "latitude": 30.1335278,
+      "longitude": -97.6422583
+    },
+    "pit_in": {
+      "latitude": 30.1343371,
+      "longitude": -97.6340257
+    },
+    "pit_out": {
+      "latitude": 30.1314446,
+      "longitude": -97.6389209
+    }
+  },
+  "pit_lane": {
+    "time_at_50kph_seconds": 36,
+    "speed_limit_kph": 50
+  },
+  "circuit_measurements": {
+    "center_line": {
+      "inches": 216468,
+      "meters": 5498.3
+    },
+    "start_line_offset": {
+      "inches": 11652,
+      "meters": 296
+    },
+    "sectors": {
+      "sector_1_sf_to_i1": {
+        "inches": 51528,
+        "meters": 1308.8
+      },
+      "sector_2_i1_to_i2": {
+        "inches": 88188,
+        "meters": 2240
+      },
+      "sector_3_i2_to_sf": {
+        "inches": 76752,
+        "meters": 1949.5
+      }
+    },
+    "speed_trap": {
+      "inches": 1176,
+      "meters": 29.9
+    },
+    "pit_measurements": {
+      "pit_in_from_sf": {
+        "inches": 208068,
+        "meters": 5284.9
+      },
+      "pit_out_from_sfp": {
+        "inches": 15504,
+        "meters": 393.8
+      },
+      "pit_in_to_pit_out": {
+        "inches": 20052,
+        "meters": 509.3
+      }
+    }
+  }
+}
